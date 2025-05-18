@@ -38,6 +38,7 @@ _Use `azd up` with any building blocks below to recreate the demo environment in
 | OpenAI .NET SDK                        | .NET client library for OpenAI APIs                        | https://aka.ms/oai/net             |
 | TypeSpec                      | Specification language for modeling and validating APIs    | https://typespec.io                |
 | Azure Developer CLI (azd)              | Official documentation for Azure Developer CLI (`azd`) used to provision and manage cloud resources | https://aka.ms/azure-dev-cli |
+| MCP C# SDK                        | C# SDK for Model Context Protocol                        | https://aka.ms/mcp/csharp             |
 | Model Context Protocol                 | Open protocol for AI model interactions                    | https://modelcontextprotocol.io    |
 
 
