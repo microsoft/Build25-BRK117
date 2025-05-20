@@ -40,6 +40,9 @@ _Use `azd up` with any building blocks below to recreate the demo environment in
 | Azure Developer CLI (azd)              | Official documentation for Azure Developer CLI (`azd`) used to provision and manage cloud resources | https://aka.ms/azure-dev-cli |
 | MCP C# SDK                        | C# SDK for Model Context Protocol                        | https://aka.ms/mcp/csharp             |
 | Model Context Protocol                 | Open protocol for AI model interactions                    | https://modelcontextprotocol.io    |
+| AI Toolkit                             | Tools for creating AI agents with local and remote generative AI models. | https://aka.ms/aitoolkit| 
+| AI Toolks Extension Pack               | A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. | https://aka.ms/AIToolsPack |
+
 
 
 ## Build Session Links
