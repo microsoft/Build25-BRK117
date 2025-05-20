@@ -7,10 +7,9 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Resources](#resources)
-3. [References](#references)
-4. [Build Session Links](#build-session-links)
-5. [Content Owners](#content-owners)
-6. [Trademarks](#trademarks)
+3. [Build Session Links](#build-session-links)
+4. [Content Owners](#content-owners)
+5. [Trademarks](#trademarks)
 
 ## Overview
 **Develop AI models and intelligent applications without ever leaving VS Code.** During BRK117 you learned how to:
@@ -29,21 +28,12 @@ _Use `azd up` with any building blocks below to recreate the demo environment in
 | MCP Container App Building Block       | Azure Container Apps building block for MCP servers        | https://aka.ms/mcp/aca             |
 | OpenAI MCP Agent Building Block        | Create OpenAI-powered agents using MCP                     | https://aka.ms/mcp/openai          |
 | AI Tools Extension Pack                | VS Code extension pack for prompt dev & model evaluation   | https://aka.ms/AIToolsPack         |
-
-
-
-## References
-| Topic                                  | Description                                                | Link                               |
-|----------------------------------------|------------------------------------------------------------|------------------------------------|
 | OpenAI .NET SDK                        | .NET client library for OpenAI APIs                        | https://aka.ms/oai/net             |
-| TypeSpec                      | Specification language for modeling and validating APIs    | https://typespec.io                |
+| TypeSpec                               | Specification language for modeling and validating APIs    | https://typespec.io                |
 | Azure Developer CLI (azd)              | Official documentation for Azure Developer CLI (`azd`) used to provision and manage cloud resources | https://aka.ms/azure-dev-cli |
-| MCP C# SDK                        | C# SDK for Model Context Protocol                        | https://aka.ms/mcp/csharp             |
+| MCP C# SDK                             | C# SDK for Model Context Protocol                          | https://aka.ms/mcp/csharp             |
 | Model Context Protocol                 | Open protocol for AI model interactions                    | https://modelcontextprotocol.io    |
 | AI Toolkit                             | Tools for creating AI agents with local and remote generative AI models. | https://aka.ms/aitoolkit| 
-| AI Toolks Extension Pack               | A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. | https://aka.ms/AIToolsPack |
-
-
 
 ## Build Session Links
 | Resource                               | Link                                                       | Notes                              |
@@ -62,6 +52,8 @@ _Use `azd up` with any building blocks below to recreate the demo environment in
 - Arun Sekhar — Principal Product Manager, AI Developer Experience, Microsoft
 - Anna Soracco — Sr Product Marketing Manager, Digital App Marketing, Microsoft
 - John Alexander — Sr Content Developer, Learn, Microsoft
+- Justin Yoo - Principal Cloud Advocate, .NET/C#, Microsoft
+- Wassim Chegham - Senior Cloud Advocate, TypeScript/JavaScript, Microsoft
 
 ---
 
