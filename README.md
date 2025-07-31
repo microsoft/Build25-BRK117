@@ -2,6 +2,9 @@
 
 📺 **Session Recording**: https://aka.ms/build2025/video/BRK117
 
+## Thanks for attending Microsoft Build 2025!
+
+*This repository is now read-only.  Stay up to date with Microsoft and AI at [https://learn.microsoft.com/ai](https://learn.microsoft.com/ai?wt.mc_id=aihub_Build25DevActions_github_cnl).*
 ---
 
 ## Table of Contents
